@@ -1,0 +1,17 @@
+# Core libraries
+langchain
+llama-index
+haystack 
+
+
+#for backend server
+fastapi 
+uvicorn
+
+#additional tools
+requests
+python-dotenv 
+
+#AI agent frameworks 
+autogpt 
+babyagi 
